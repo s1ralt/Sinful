@@ -8,9 +8,9 @@ import threading
 import getpass
 import os
 
-sys.stdout.write("\x1b]2;C O R T E X |CORT| D O W N E D\x07")
+sys.stdout.write("D.BOOTER")
 def modifications():
-	print ("Contact Misfortune or Reaper the script is currently under maitnance")
+	print ("Contact DYL4N#0552 the script is currently under maintenance")
 	on_enter = input("Please press enter to leave")
 	exit()
 #column:65
@@ -27,11 +27,10 @@ method = """\033[91m
 """
 
 info = """
-[\033[91mSIN\033[00m] \033[91mCortex, Made By Envy, Re Coded from sinfull,
-i liked this scripts, so i simply re coded it,
+[\033[91mSIN\033[00m] \033[91mCortex, Made By s1ralt
 i will be adding new methods all the time,
 stay tuned. 
-Sinfulls Biggest Attack
+DYL4N's Biggest Attack
 31.9 gbps
 Cortexs, Biggest Attack,
 Not Recorded, (Most Likely The Same As Sinfull.)
